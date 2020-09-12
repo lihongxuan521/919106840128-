@@ -26,15 +26,15 @@ DEFINES += QT_DEPRECATED_WARNINGS
 SOURCES += \
         main.cpp \
         widget.cpp \
-    playwithai.cpp \
     gamemodel.cpp \
-    playwithperson.cpp
+    playwithai.cpp \
+    playbyperson.cpp
 
 HEADERS += \
         widget.h \
-    playwithai.h \
     gamemodel.h \
-    playwithperson.h
+    playwithai.h \
+    playbyperson.h
 
 FORMS += \
         widget.ui
