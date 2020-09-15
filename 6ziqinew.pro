@@ -28,13 +28,22 @@ SOURCES += \
         widget.cpp \
     gamemodel.cpp \
     playwithai.cpp \
-    playbyperson.cpp
+    playbyperson.cpp \
+    playbypersonjin.cpp \
+    playwithaijin.cpp \
+    aitoai.cpp
 
 HEADERS += \
         widget.h \
     gamemodel.h \
     playwithai.h \
-    playbyperson.h
+    playbyperson.h \
+    playbypersonjin.h \
+    playwithaijin.h \
+    aitoai.h
 
 FORMS += \
         widget.ui
+
+RESOURCES += \
+    beijingtupian.qrc
