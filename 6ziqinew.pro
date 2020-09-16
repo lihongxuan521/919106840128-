@@ -47,3 +47,6 @@ FORMS += \
 
 RESOURCES += \
     beijingtupian.qrc
+
+SUBDIRS += \
+    ../../Qt/Qt.pro
